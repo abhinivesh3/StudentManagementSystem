@@ -1,6 +1,0 @@
-com/tomcatserver/sms/service/impl/StudentServiceImpl.class
-com/tomcatserver/sms/StudentManagementSystemApplication.class
-com/tomcatserver/sms/entity/Student.class
-com/tomcatserver/sms/service/StudentService.class
-com/tomcatserver/sms/repository/StudentRepository.class
-com/tomcatserver/sms/controller/StudentController.class
